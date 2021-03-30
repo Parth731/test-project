@@ -1,0 +1,43 @@
+
+vs code project upload in github free method available
+
+1> git clone
+2> git initialize respository 
+3> public to github (here create respository not required bez folder is same as create respository name)
+
+commom point: 
+-create github account 
+-create git software and installing then signup
+-download and installing vscode
+
+1> git clone
+-open vscode
+-goto view menu and selected command palete..
+-open popup in select git:clone
+-select clone from github
+-select respository url (you are created respository)
+-select respository location means folder
+-select open in new window
+-write program then goto source control(git icon)
+-commit and push the program
+
+2> git initialize respository 
+-goto source control (git icon)
+-select initialize respository
+-open new terminal and write respository remote
+
+ex:     
+        > git remote add origin https://github.com/Parth731/test-project.git    
+
+        enter
+
+-write commit and click right button then push click 
+-pushing respository.
+
+
+3> public to github
+-goto source control (git icon)
+-select public to github
+-two popup opern (private and public) respository and select public respository
+-select the file you wnat to move in git then click ok
+-open github and check
